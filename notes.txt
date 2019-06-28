@@ -1,0 +1,9 @@
+
+#3970f9cf-2c0c-4f11-b1cc-e3a1e9958833
+
+tracelog -start VeraLogs -guid 3970f9cf-2c0c-4f11-b1cc-e3a1e9958833 -rt
+tracefmt -rt VeraLogs -p d:\ninja\log -o d:\ninja\log.txt
+
+0x3970f9cf0x2c0c, 0x4f11, 0xb1, 0xcc, 0xe3, 0xa1, 0xe9, 0x95, 0x88, 0x33
+SET "PATH=%PATH%;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64"
+
